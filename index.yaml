@@ -2,22 +2,22 @@ apiVersion: v1
 entries:
   sample-cloud-connector:
   - apiVersion: v1
-    created: "2020-05-05T17:02:00.013728+08:00"
+    created: "2020-05-12T12:41:32.538166+08:00"
     description: A Helm chart for Kubernetes
-    digest: bb4c45323faadd0242d44b7d31d7435fb26279cfa4e50777a12fd110ff0e8447
+    digest: c50dbe71dc2d2ceef687ab58a86399a055ef1e915186102be5c2453724cfa6b4
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: sample-cloud-connector
     urls:
-    - https://xiaozhu90028.github.io/helm-repo/sample-cloud-connector-0.1.0.tgz
-    version: 0.1.0
+    - https://xiaozhu90028.github.io/helm-repo/sample-cloud-connector-0.1.1.tgz
+    version: 0.1.1
   sample-runtime-bundle:
   - apiVersion: v1
-    created: "2020-05-05T17:02:00.015334+08:00"
+    created: "2020-05-12T12:41:32.542312+08:00"
     description: A Helm chart for Kubernetes
-    digest: d6d064b3e1320117e7ba4bcc7351b8a1241683485fa799e5a7a11b542482cc57
+    digest: 5230d0a47afe5ed3232b4a01c2e27eecbfb1cda22040e6281a21442deb9216ec
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: sample-runtime-bundle
     urls:
-    - https://xiaozhu90028.github.io/helm-repo/sample-runtime-bundle-0.1.0.tgz
-    version: 0.1.0
-generated: "2020-05-05T17:02:00.010953+08:00"
+    - https://xiaozhu90028.github.io/helm-repo/sample-runtime-bundle-0.1.1.tgz
+    version: 0.1.1
+generated: "2020-05-12T12:41:32.531278+08:00"
