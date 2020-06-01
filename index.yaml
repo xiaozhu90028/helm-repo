@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   sample-cloud-connector:
   - apiVersion: v1
-    created: "2020-05-12T12:41:32.538166+08:00"
+    created: "2020-06-01T15:12:36.854774+08:00"
     description: A Helm chart for Kubernetes
     digest: c50dbe71dc2d2ceef687ab58a86399a055ef1e915186102be5c2453724cfa6b4
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -10,9 +10,27 @@ entries:
     urls:
     - https://xiaozhu90028.github.io/helm-repo/sample-cloud-connector-0.1.1.tgz
     version: 0.1.1
+  - apiVersion: v1
+    created: "2020-06-01T15:12:36.847904+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 8655b15c207a51cf56869432a7d5f87f495b86294ee41a8eab945c4a551b0794
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: sample-cloud-connector
+    urls:
+    - https://xiaozhu90028.github.io/helm-repo/sample-cloud-connector-0.1.0.tgz
+    version: 0.1.0
   sample-runtime-bundle:
   - apiVersion: v1
-    created: "2020-05-12T12:41:32.542312+08:00"
+    created: "2020-06-01T15:12:36.858465+08:00"
+    description: A Helm chart for Kubernetes
+    digest: bcacfba90f7128365bd61b876c11884a9f9a1a3c3696278fc8b499aacea1cb1f
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: sample-runtime-bundle
+    urls:
+    - https://xiaozhu90028.github.io/helm-repo/sample-runtime-bundle-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    created: "2020-06-01T15:12:36.85752+08:00"
     description: A Helm chart for Kubernetes
     digest: 5230d0a47afe5ed3232b4a01c2e27eecbfb1cda22040e6281a21442deb9216ec
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -20,4 +38,13 @@ entries:
     urls:
     - https://xiaozhu90028.github.io/helm-repo/sample-runtime-bundle-0.1.1.tgz
     version: 0.1.1
-generated: "2020-05-12T12:41:32.531278+08:00"
+  - apiVersion: v1
+    created: "2020-06-01T15:12:36.856046+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 7fb59cb4e28d9280343246ab0972544a2f9d7a61bb7aecb4cf6f0dc3cc5de2b1
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: sample-runtime-bundle
+    urls:
+    - https://xiaozhu90028.github.io/helm-repo/sample-runtime-bundle-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-01T15:12:36.843782+08:00"
